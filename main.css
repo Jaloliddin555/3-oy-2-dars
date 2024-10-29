@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    margin-top: 54px;
+margin-right: 133px;
+    margin-left: 136px;
+height: 50px;
+}
+.heder__img{
+    margin-right: 467px;
+    height: 30px;
+    margin-top: 6px;
+}
+.header__btn{
+    border-radius: 5px;
+    box-shadow: 0px 22px 40px 0px rgba(255, 104, 56, 0.19);
+    background: rgb(255, 122, 80);
+    color: rgb(255, 255, 255);
+font-family: Rubik;
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+text-align: center;
+width: 120px;
+height: 50px;
+}
+.header__ul{
+    display: flex;
+    gap: 60px;
+    list-style: none;
+}
+.header__li1{
+    color: rgb(255, 104, 56);
+font-family: Rubik;
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+text-align: left;
+padding-top: 15px;
+}
+.header__li{
+    color: rgb(54, 56, 83);
+font-family: Rubik;
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+text-align: left;
+padding-top: 15px;
+}
+.header__li2{
+    color: rgb(54, 56, 83);
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    margin-right: 30px;
+    padding-top: 15px;
+}
+.h2{
+    font-family: "Rubik";
+font-size: 66px;
+font-weight: 500;
+line-height: 78px;
+text-align: left;
+text-transform: capitalize;
+margin-top: 219px;
+margin-left: 95px;
+width: 530px;
+}
+.strong{
+  color: #ff7a50;  
+}
+.p{
+    color: rgb(54, 56, 83);
+font-family: Rubik;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-transform: capitalize;
+margin-left: 96px;
+width: 513px;
+margin-bottom: 45px;
+}
+.btn{
+    border-radius: 5px;
+box-shadow: 0px 22px 40px 0px rgba(255, 104, 56, 0.19);
+background: rgb(255, 122, 80);
+color: rgb(255, 255, 255);
+font-family: Rubik;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+text-align: center;
+padding-top: 12.85px;
+padding-left: 21px;
+padding-right: 21px;
+padding-bottom: 14px;
+margin-left: 95px;
+}
+.div{
+    display: flex;
+}
+.h21{
+    width: 383px;
+    height: 100px;
+    font-family: "Rubik";
+font-size: 36px;
+font-weight: 500;
+line-height: 50px;
+text-transform: capitalize;
+margin-top: 238px;
+margin-right: 136px;
+}
+.div__1{
+    margin-top: 95px;
+    color: rgb(54, 56, 83);
+    font-family: Rubik;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+margin-bottom: 141px;
+}
+.btn1{
+padding-left: 44px;
+padding-right: 44px;
+padding-top: 17px;
+padding-bottom: 17px;
+    border-radius: 30px 30px 1px 30px;
+box-shadow: 0px 22px 40px 0px rgba(255, 104, 56, 0.19);
+background: rgb(255, 122, 80);
+color: rgb(255, 255, 255);
+font-family: Rubik;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+}
+.img1{
+    margin-bottom: 44px;
+}
+.h2__1{
+    font-family: Rubik;
+font-size: 36px;
+font-weight: 500;
+line-height: 30px;
+text-align: center;
+text-transform: capitalize;
+}
+.strong1{
+    color: #ff7a50;  
+}
+.img2{
+    width:361px; 
+ height: 299px;
+    margin-left: 158px;
+    margin-right: 46px;
+    margin-top: 50px;
+
+}
+.img3{
+    margin-right: 46px;
+    margin-top: 50px;
+    width:361px; 
+    height: 299px;
+}
+.img4{
+    margin-top: 50px;
+    width:361px; 
+    height: 299px;
+}
+.d{
+    display:flex; 
+}
+.p2{
+    color: rgb(54, 56, 83);
+font-family: "Rubik";
+font-size: 24px;
+font-weight: 400;
+line-height: 30px;
+margin-left: 176px;
+}
+.p3{
+    color: rgb(54, 56, 83);
+font-family: "Rubik";
+font-size: 18px;
+font-weight: 300;
+line-height: 30px;
+margin-left: 206px;
+}
+.b{
+    border-radius: 20px 20px 0px 20px;
+    box-shadow: 0px 5px 12px 0px rgba(255, 104, 56, 0.19);
+    background: rgb(255, 122, 80);
+}
+.p4{
+    color: rgb(54, 56, 83);
+    font-family: "Rubik";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.p5{
+    color: rgb(54, 56, 83);
+    font-family: "Rubik";
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+}
+.h{
+    margin-top: 281px;
+    margin-left: 176px;
+    font-family: "Rubik";
+font-size: 36px;
+font-weight: 500;
+line-height: 50px;
+text-transform: capitalize;
+}
+.k{
+    color: rgb(54, 56, 83);
+font-family: Rubik;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+margin-top: 30px;
+margin-left: 176px;
+}
+.v{
+    display: flex;
+}
+.i{
+    margin-top: 162px;
+}
+.o{
+    color: rgb(255, 255, 255);
+font-family: Rubik;
+font-size: 40px;
+font-weight: 500;
+line-height: 47px;
+text-align: center;
+
+}
